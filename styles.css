@@ -74,7 +74,7 @@ body{
     display: flex;
     width: 98px;
     height: 72px;
-    font-size: 3rem;
+    font-size: 2.9rem;
     text-align: center;
     background:transparent;
     border: 2px solid var(--bg-lightest);
