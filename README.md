@@ -36,4 +36,4 @@ A simple, responsive web application that converts between Metric and Imperial u
 
 ## 🔧 How to Use -
 
-**Open in Browser** : [Click-here](https://unit-conversion-to.netlify.app/)
+**Open in Browser** : [Live](https://unit-conversion-to.netlify.app/)
